@@ -1,7 +1,7 @@
 Other sources:
 --------------
 
-UK NHS Blood and Transplany service:
+UK NHS Blood and Transplant service:
 https://www.nhsbt.nhs.uk/what-we-do/blood-services/blood-donation/
 
 Welsh Blood Service
@@ -17,3 +17,5 @@ https://www.giveblood.ie
 Canadian Blood Services
 https://blood.ca
  Donation centre location service: https://myaccount.blood.ca/
+ 
+So far, unable to find any WHO or government details about blood donations
