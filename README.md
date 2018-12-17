@@ -1,6 +1,6 @@
-Alexa Skills Project
-====================
+Blood Donor
+===========
 
-Plan is to offer some skills to answer questions about Blood Doning
+Initially to source information about blood doning, online if possible to ensure accuracy and traceability.
 
-Initially general advice, more pertinent to the UK, but potentically can broaden out
+Eventually plan to make the information more easily accessible
